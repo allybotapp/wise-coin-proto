@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "877302409782",
+    "project_id": "wisecoin-proto",
+    "storage_bucket": "wisecoin-proto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877302409782:android:691a240ee57694f363c697",
+        "android_client_info": {
+          "package_name": "app.allybot.wisecoin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877302409782-pbfdblfair22im3ir90994jrfq8bbf38.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.allybot.wisecoin",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "877302409782-obh2c0din3qjr0qjmctpb2nc4fpdfu20.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAMfqG7b9nUY3JEuyX5HhrwKsLUoe3L0C8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "877302409782-obh2c0din3qjr0qjmctpb2nc4fpdfu20.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "877302409782-jds9arfcusp40febv94d8c0n8unbkeu7.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "app.allybot.wisecoin"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
